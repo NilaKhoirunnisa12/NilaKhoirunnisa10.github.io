@@ -5,25 +5,23 @@ NIM : 181011402082
 
 Kelas : 06TPLM003
 
-# Bubble Sorte em JavaScript
+# Bubble Sort dalam JavaScript
 
-![Botão de Versão](https://img.shields.io/badge/Version-2.0-blue)
+[Tombol Versi] (https://img.shields.io/badge/Version-2.0-blue)
  
-Algoritmo de ordenação em ciência da computação é um algoritmo que coloca os elementos de uma dada sequência em uma certa ordem.
+Algoritma pengurutan komputasional adalah algoritma yang menempatkan elemen-elemen dari urutan dada dalam urutan yang tepat.
 
-A ideia do bubble sort (ou ordenação "por bolha") é percorrer um vetor diversas vezes, e a cada passagem fazer flutuar para o topo o maior elemento da sequência. É chamado de ordenação por bolha pois essa movimentação lembra a forma como as bolhas em um tanque de água procuram seu próprio nível. 
-No melhor caso, o algoritmo executa n operações relevantes, onde n representa o número de elementos do vetor.
+Idealnya jenis gelembung (atau penahbisan "oleh bolha") bertengger pada vektor beberapa kali, dan melewati kepakan untuk elemen teratas atau sebagian besar dari urutan yang disebut dengan penahbisan bolha setelah itu air saya mencari tingkat yang tepat. Teu kedah kasohor, o algoritma menjalankan operasi yang relevan, onde n mewakili jumlah elemen dari vetor.
 
-Esse algoritmo foi desenvolvido como atividade da segunda semana do bootcamp Academia Mastertech
-## Como Usar
-Faça o download do zip ou clone este repositório:
+Algoritma ini dikembangkan sebagai kegiatan untuk minggu kedua bootcamp Mastertech Academy.
+## Cara Penggunaan
+Buat unduhan zip atau klon repositori ini:
 > git clone https://github.com/NilaKhoirunnisa12/NilaKhoirunnisa10.github.io
 
-Abra o arquivo index.html em um navegador de sua preferência e experimente o algoritmo.
+Buka file index.html di browser pilihan Anda dan bereksperimenlah dengan algoritme.
 
-## Tecnologias
-Neste projeto foi utilizado: HTML5, CSS3, JavaScript.
+## Teknologi
+Proyek ini menggunakan: HTML5, CSS3, JavaScript.
 
-## Autor
-Desenvolvido por João Lucas da Silva.
-Entre em contato comigo:
+## Penulis
+Dirancang oleh Nila Khoirunnisa.
