@@ -17,7 +17,7 @@ No melhor caso, o algoritmo executa n operações relevantes, onde n representa 
 Esse algoritmo foi desenvolvido como atividade da segunda semana do bootcamp Academia Mastertech
 ## Como Usar
 Faça o download do zip ou clone este repositório:
-> git clone https://github.com/joao-lucasilva/BubbleSortjs
+> git clone https://github.com/NilaKhoirunnisa12/NilaKhoirunnisa10.github.io
 
 Abra o arquivo index.html em um navegador de sua preferência e experimente o algoritmo.
 
