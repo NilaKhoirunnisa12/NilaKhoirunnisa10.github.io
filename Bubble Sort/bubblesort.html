@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<script src="bubblesort.js" defer></script>
+	<link rel="stylesheet" href="assets/style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+	<title>Bubble Sort em JavaScript</title>
+</head>
+
+<body onload="showArray()">
+	<header>
+		<h1>Algoritma Pengurutan Bubble Sort</h1>
+	</header>
+	<div id="description">
+		<p>sorting array menggunakan Bubble Sort</p>
+		<p>Algoritma mengeksekusi <i> n </i> operasi yang relevan, di mana <i> n </i> mewakili
+			jumlah elemen array.</p>
+	</div>
+
+	<div id="example">
+		<fieldset id="fieldset">
+			<h4>Contoh:</h4>
+			<p id="ex1"></p>
+			<button id="btn1" onclick="exemplo()"> Klik untuk memesan atau Array</button>
+			<p id="ex2"></p>
+		</fieldset>
+	</div>
+	<div id="test">
+		<h4>Uji dirimu: </h4>
+		<label>Digit dan tambahkan nomor ke nomor:</label><br>
+		<input type="number" id="input" placeholder="Masukkan nomor dan klik tambahkan">
+		<button type="submit" onclick="addNumber()">Menambahkan</button>
+		<p id="elements"></p>
+		<button onclick="orderElements()">ordenya</button>
+		<p id="ordenedElements"></p>
+	</div>
+</body>
+
+</html>
